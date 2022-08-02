@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Office Reunion",
+      "day": "10th August",
+      "Reminder": true
+    },
+    {
+      "id": 3,
+      "text": "College Reunion",
+      "day": "21st August",
+      "Reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Groceries Shopping",
+      "day": "2nd September",
+      "Reminder": true
+    }
+  ]
+}
